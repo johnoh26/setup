@@ -1,0 +1,12 @@
+# Lines starting with '#' are comments.
+
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in the repo.
+
+- @johnoh26
+
+# Specific file types or directories
+
+<!-- \*.js @team-name -->
+<!-- /path/to/directory/ @username3 -->
